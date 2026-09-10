@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    container_name: hxh-c10-ctf-web
+    ports:
+      - "3003:80"
+    environment:
+      - DB_HOST=db
+      - DB_PORT=3306
+      - DB_NAME=hxh_c10_db
+      - DB_USER=hxh_user
+      - DB_PASS=hxh_secret_nen_pass
+    depends_on:
+      - db
+    volumes:
+      - .:/var/www/html
+    restart: unless-stopped
+
+  db:
+    image: mariadb:10.11
+    container_name: hxh-c10-ctf-db
+    environment:
+      - MYSQL_ROOT_PASSWORD=hxh_root_secret
+      - MYSQL_DATABASE=hxh_c10_db
+      - MYSQL_USER=hxh_user
+      - MYSQL_PASSWORD=hxh_secret_nen_pass
+    volumes:
+      - ./database.sql:/docker-entrypoint-initdb.d/init.sql:ro
+      - db_data:/var/lib/mysql
+    restart: unless-stopped
+
+volumes:
+  db_data:

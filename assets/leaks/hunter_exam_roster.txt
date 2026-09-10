@@ -1,0 +1,27 @@
+================================================================================
+  HUNTER ASSOCIATION CLEARANCE ROSTER ARCHIVE // PROJECT 10 (HXH-C10)
+  RESTRICTED ARCHIVAL DUMP - SECTOR 10: ZODIAC EXPEDITIONARY DIVISION
+  WARNING: UNAUTHORIZED NEN REPLICATION SUBJECT TO IMMEDIATE ELIMINATION
+================================================================================
+
+[CLEARANCE ENTRY #403]
+Status          : ACTIVE (Double-Star Hunter Candidate)
+Codename        : Leorio Paradinight
+Affiliation     : Zodiac Twelve (Codename: "Boar") / Medical Science Division
+Nen Category    : Emission (Hatsu: Remote Ultrasound & Warp Punch)
+Hunter License  : #287-0403-9912
+
+[AUTHENTICATION RECOVERY DATA]
+Terminal Portal : HXH-C10 Secret Gate
+Username        : leorio_paradinight
+Passphrase      : dragon
+Auth Method     : Standard Clear-String (Auto-generated emergency backup key)
+Notes           : Leorio requested this emergency backup phrase because he kept
+                  forgetting complex 64-character Nen hash phrases during surgery.
+                  Scheduled for rotation after the Black Whale voyage departs.
+
+--------------------------------------------------------------------------------
+[SECURITY NOTICE]
+This document is automatically purged every 24 hours under Hunter Bylaw Article 4.
+If found outside of the Association Headquarters, contact Cheadle Yorkshire immediately.
+================================================================================

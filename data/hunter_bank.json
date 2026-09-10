@@ -1,0 +1,171 @@
+{
+    "users": {
+        "leorio_paradinight": {
+            "username": "leorio_paradinight",
+            "full_name": "Leorio Paradinight",
+            "title": "Medical Student & Zodiac (\"Boar\")",
+            "nen_type": "Emission (Warp Punch)",
+            "license_number": "#287-0403-9912",
+            "balance": 0,
+            "bio": "Aspiring physician working tirelessly to pay medical school tuition fees. Always seeking funds.",
+            "avatar_badge": "\ud83e\ude7a",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "gon_freecss": {
+            "username": "gon_freecss",
+            "full_name": "Gon Freecss",
+            "title": "Rookie Hunter \/ Enhancer",
+            "nen_type": "Enhancement (Jajanken)",
+            "license_number": "#287-0405-1104",
+            "balance": 0,
+            "bio": "Traveled from Whale Island in search of his father Ging. Spent all his savings on fishing gear.",
+            "avatar_badge": "\ud83c\udfa3",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "killua_zoldyck": {
+            "username": "killua_zoldyck",
+            "full_name": "Killua Zoldyck",
+            "title": "Ex-Assassin Heir \/ Transmuter",
+            "nen_type": "Transmutation (Godspeed Lightning)",
+            "license_number": "#288-0001-7723",
+            "balance": 0,
+            "bio": "Blew his entire savings at the Heavens Arena confectionery shop buying ChocoRobo-kun snacks.",
+            "avatar_badge": "\u26a1",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "kurapika_kurta": {
+            "username": "kurapika_kurta",
+            "full_name": "Kurapika",
+            "title": "Blacklist Hunter & Nostrade Boss",
+            "nen_type": "Conjuration \/ Specialization (Emperor Time)",
+            "license_number": "#287-0404-5510",
+            "balance": 0,
+            "bio": "Last survivor of the Kurta Clan. Allocated all Nostrade family treasury assets into auction intelligence.",
+            "avatar_badge": "\u26d3\ufe0f",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "hisoka_morow": {
+            "username": "hisoka_morow",
+            "full_name": "Hisoka Morow",
+            "title": "Grim Reaper Magician",
+            "nen_type": "Transmutation (Bungee Gum)",
+            "license_number": "#287-0044-8832",
+            "balance": 0,
+            "bio": "Has zero interest in physical currency. Only seeks unripe fruit to duel to the death.",
+            "avatar_badge": "\ud83c\udccf",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "tonpa_crusher": {
+            "username": "tonpa_crusher",
+            "full_name": "Tonpa",
+            "title": "Rookie Crusher Veteran",
+            "nen_type": "Unknown (Lethargy)",
+            "license_number": "UNLICENSED-EXAM-35X",
+            "balance": 0,
+            "bio": "Participated in 35 consecutive Hunter exams. Bankrupted himself purchasing industrial laxatives.",
+            "avatar_badge": "\ud83e\udd6b",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "hanzo_ninja": {
+            "username": "hanzo_ninja",
+            "full_name": "Hanzo",
+            "title": "Cloud Hidden Shinobi",
+            "nen_type": "Transmutation (Ninjutsu Arts)",
+            "license_number": "#287-0294-3321",
+            "balance": 0,
+            "bio": "Elite ninja pursuing the Secret Scroll of the Hermit. Carries only survival shurikens and rations.",
+            "avatar_badge": "\ud83e\udd77",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "pokkle_archer": {
+            "username": "pokkle_archer",
+            "full_name": "Pokkle",
+            "title": "Beast Hunter \/ Archer",
+            "nen_type": "Emission (Rainbow Arrows)",
+            "license_number": "#287-0053-4412",
+            "balance": 0,
+            "bio": "Specializes in undiscovered creature classification. Expended all capital on NGL exploration equipment.",
+            "avatar_badge": "\ud83c\udff9",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "ponzu_bees": {
+            "username": "ponzu_bees",
+            "full_name": "Ponzu",
+            "title": "Chemical & Bee Specialist",
+            "nen_type": "Manipulation (Bee Signals)",
+            "license_number": "APPLICANT-#246",
+            "balance": 0,
+            "bio": "Carries neurotoxin bees inside her hat. Zero Jenny remaining after apiary laboratory upgrades.",
+            "avatar_badge": "\ud83d\udc1d",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "illumi_zoldyck": {
+            "username": "illumi_zoldyck",
+            "full_name": "Illumi Zoldyck",
+            "title": "Assassin Operative \/ Needle Master",
+            "nen_type": "Manipulation (Needle Control)",
+            "license_number": "#287-0301-9988",
+            "balance": 0,
+            "bio": "Transfers all contract assassination fees directly into the Kukuroo Mountain Family trust account.",
+            "avatar_badge": "\ud83e\udea1",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "chrollo_lucilfer": {
+            "username": "chrollo_lucilfer",
+            "full_name": "Chrollo Lucilfer",
+            "title": "Phantom Troupe Head (Spider #0)",
+            "nen_type": "Specialization (Skill Hunter)",
+            "license_number": "#METEOR-CITY-0000",
+            "balance": 0,
+            "bio": "We steal everything we want. Money holds no value to the Spider, only rare artifacts and stolen Nen abilities.",
+            "avatar_badge": "\ud83d\udcd6",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "feitan_portor": {
+            "username": "feitan_portor",
+            "full_name": "Feitan Portor",
+            "title": "Phantom Troupe Interrogator (#2)",
+            "nen_type": "Transmutation (Rising Sun \/ Pain Packer)",
+            "license_number": "#SPIDER-0002-XX",
+            "balance": 0,
+            "bio": "Master of torture and interrogation. Possesses no bank accounts in the civilized world.",
+            "avatar_badge": "\u2602\ufe0f",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "machi_komacine": {
+            "username": "machi_komacine",
+            "full_name": "Machi Komacine",
+            "title": "Nen Stitch Specialist (#3)",
+            "nen_type": "Transmutation (Nen Threads)",
+            "license_number": "#SPIDER-0003-XX",
+            "balance": 0,
+            "bio": "Charges exorbitant rates for re-attaching severed limbs (e.g. Hisoka), but kept all funds in Meteor City caches.",
+            "avatar_badge": "\ud83e\uddf5",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "zepile_appraiser": {
+            "username": "zepile_appraiser",
+            "full_name": "Zepile",
+            "title": "Yorknew Antique & Treasure Appraiser",
+            "nen_type": "Natural Genius \/ Wooden Box Artisan",
+            "license_number": "#YORKNEW-APPRAISER",
+            "balance": 0,
+            "bio": "Fell into severe debt pawning his Hunter License to finance bidding wars at the Southernpiece Auction.",
+            "avatar_badge": "\ud83c\udffa",
+            "created_at": "2026-09-01 10:00:00"
+        },
+        "milluki_zoldyck": {
+            "username": "milluki_zoldyck",
+            "full_name": "Milluki Zoldyck",
+            "title": "Zoldyck Estate Hacker & Otaku Collector",
+            "nen_type": "Manipulation (Remote Drone Bot)",
+            "license_number": "#ZOLDYCK-TECH-902",
+            "balance": 10000,
+            "bio": "Second son of the Zoldyck family. Hoards an emergency reserve of 10,000 \u24bf in his Yorknew online account to purchase ultra-rare anime figurines and Greed Island memory cards.",
+            "avatar_badge": "\ud83d\udcbb",
+            "created_at": "2026-09-01 10:00:00"
+        }
+    },
+    "transactions": [],
+    "purchased_clues": []
+}
