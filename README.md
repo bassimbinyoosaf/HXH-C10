@@ -107,3 +107,8 @@ HXH-C10/
 ├── start.sh                        # Standalone runner
 └── wallet.php                      # Player Jenny Wallet & P2P Trade Station
 ```
+
+---
+
+## Walkthrough
+A detailed walkthrough is provided in `WALKTHROUGH C10.txt` for reference.
