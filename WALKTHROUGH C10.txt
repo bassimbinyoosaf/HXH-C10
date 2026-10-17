@@ -1,0 +1,41 @@
+WALKTHROUGH C10
+
+You get a login page
+	Ctrl+u
+	GO TO PAGE SOURCE
+	assets/js/nen_gatekeeper.js?v=1789032754
+	FROM THERE YOU GET A PATH
+	/assets/leaks/hunter_exam_roster.txt
+	GO TO THI PAGE AND YOU GET LOGIN DETAILS
+ussername and password:
+
+leorio_paradinight:dragon
+
+GO TO PROFILE
+	chnage the url frm url/profile to url/profile?user=milluki_zoldyck
+	go to bank and sent money from that acc to our acc LEORIO PARADINIGHT
+	come back to leorio acc from profile same as before
+	
+GO TO SHOP
+	BUY CLUE
+	SSP{MILLUKI_BANK_IDOR_DRAINED_98A41}   we get the fake flag
+	we get a page gateway.php go there and submit the flag and press enter
+
+A COOKIE IS SPAWNED NOW
+	run 
+		document.cookie = "hunter_pouch=" + btoa(JSON.stringify({
+	    user: "leorio_paradinight",
+	    balance: 20000,
+	    role: "hunter_candidate",
+	    smart_ring: "GREED_ISLAND_SYNC_V1",
+	    tamper_proof: "false"
+	})) + "; path=/";
+	
+NOW 2000 JENNY WILL BE ADDED
+
+GO TO BANK
+	Buy the second clue
+	
+GO TO gateway
+	You get the final flag
+	SSP{WEB_HUNTER_LICENSE_DA91FC72}
