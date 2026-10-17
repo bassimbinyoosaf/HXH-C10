@@ -5,7 +5,7 @@ services:
     build: .
     container_name: hxh-c10-ctf-web
     ports:
-      - "3003:80"
+      - "30010:80"
     environment:
       - DB_HOST=db
       - DB_PORT=3306
