@@ -17,15 +17,15 @@ A hard-tier web exploitation CTF challenge set in the **Hunter × Hunter** unive
 
 ### Option 1: Standalone PHP CLI (Instant Zero-Dependency)
 ```bash
-./start.sh 3003
+./start.sh 30010
 ```
-Then visit `http://127.0.0.1:3003` in your web browser.
+Then visit `http://127.0.0.1:30010` in your web browser.
 
 ### Option 2: Docker Compose (Production Web + MariaDB Containers)
 ```bash
 docker-compose up -d --build
 ```
-Access the challenge at `http://127.0.0.1:3003`.
+Access the challenge at `http://127.0.0.1:30010`.
 
 ---
 
